@@ -19,5 +19,9 @@
   "homepage": "https://github.com/rchaser53/onsen#readme",
   "devDependencies": {
     "fusuma": "^2.8.4"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "webpack": "^5.72.1"
   }
 }

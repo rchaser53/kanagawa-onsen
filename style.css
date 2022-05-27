@@ -31,3 +31,8 @@
 /* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
 .section-title {
 }
+
+img {
+  height: 400px;
+  width: auto;
+}
